@@ -43,4 +43,5 @@ The objective of this dashboard is to provide a comprehensive and visual represe
 
 **Implications**: Discuss the broader implications of the data. How might this affect policies, economies, or international relations?
 
+![International Migration](https://github.com/user-attachments/assets/712bf30d-ca6f-4f11-822e-f28941891716)
 
